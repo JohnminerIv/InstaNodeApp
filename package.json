@@ -1,6 +1,6 @@
 {
     "name": "instanodeexpressjm",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "A node module that lets you avoid node - express boilerplate, hopefully.",
     "main": "index.js",
     "bin": {
