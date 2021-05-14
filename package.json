@@ -1,0 +1,25 @@
+{
+    "name": "instanodeexpressjm",
+    "version": "1.0.2",
+    "description": "A node module that lets you avoid node - express boilerplate, hopefully.",
+    "main": "index.js",
+    "bin": {
+        "instaapp": "index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/JohnminerIv/InstaNodeApp.git"
+    },
+    "author": "John Miner",
+    "license": "SEE LICENSE IN ../LICENSE",
+    "bugs": {
+        "url": "https://github.com/JohnminerIv/InstaNodeApp/issues"
+    },
+    "homepage": "https://github.com/JohnminerIv/InstaNodeApp#readme",
+    "dependencies": {
+        "fs-extra": "^10.0.0"
+    }
+}
